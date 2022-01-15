@@ -5,4 +5,4 @@ Various small Python projects
 ### Sanakoe
 A vocabulary tester
 * Dependencies: Python 3, Pandas, NumPy
-* Takes a two-column excel file as an input (see words.xlsx)
+* Takes a two-column excel file as an input (see sanat.xlsx)
