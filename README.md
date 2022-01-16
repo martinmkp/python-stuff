@@ -2,7 +2,7 @@
 Various small Python projects
 </br>
 
-### Sanakoe
+### Vocabulary tester
 A vocabulary tester
-* Dependencies: Python 3, Pandas, NumPy
-* Takes a two-column excel file as an input (see sanat.xlsx)
+* Dependencies: Python 3, Pandas, os, sqlite3
+* Saves data from excel-file to an SQLite-database. Reads data from .db file for the vocabulary test.
