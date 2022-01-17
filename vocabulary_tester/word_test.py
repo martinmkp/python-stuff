@@ -1,6 +1,10 @@
 import pandas as pd
 
 def word_test(words):
+    """
+    The vocabulary tester.
+    """
+    words = words.sample(frac=1).reset_index(drop=True)
     col_1 = list(words.iloc[:, 0])
     col_2 = list(words.iloc[:, 1])
 
