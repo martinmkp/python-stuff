@@ -13,3 +13,4 @@ A vocabulary tester
 Prediction of the resignation of employees from HR data.
 * <b> Topic: Data Science </b>
 * Dependencies: Python 3, JupyterLab, NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn
+* Data source: https://www.kaggle.com/jacksonchou/hr-analytics/report
