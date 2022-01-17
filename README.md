@@ -10,7 +10,7 @@ A vocabulary tester
 </br>
 
 ### HR Analytics
-Prediction of the resignation of employees from HR data.
+Prediction of the resignation of employees.
 * <b> Topic: Data Science </b>
 * Dependencies: Python 3, JupyterLab, NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn
 * Data source: https://www.kaggle.com/jacksonchou/hr-analytics/data
