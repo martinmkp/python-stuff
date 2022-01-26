@@ -1,14 +1,13 @@
 import pandas as pd
 import sqlite3
 
-def read_from_db(filename):
+def read_from_db(filename, table_name):
     """
     Reads the table from the given path/filename.
     """
 
     try:
         connect_db = sqlite3.connect(filename)
-        table_name = "ch9"
         words = pd.read_sql_query(f"SELECT japanese, finnish FROM {table_name}", connect_db)
 
     except sqlite3.Error as error:
