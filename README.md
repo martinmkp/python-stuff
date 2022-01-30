@@ -14,3 +14,9 @@ Prediction of the resignation of employees.
 * <b> Topic: Data Science </b>
 * Dependencies: Python 3, JupyterLab, NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn
 * Data source: https://www.kaggle.com/jacksonchou/hr-analytics/data
+</br>
+
+### Perceptron
+Perceptron, a very simple neural network.
+* <b> Topic: Data Science </b>
+* Dependencies: Python 3
